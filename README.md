@@ -7,4 +7,4 @@ Instalación
 Cómo usarlo
 Contribuciones (si deseas que las personas te ayuden)
 Soporte (qué debe hacer un visitante si el/ella tiene problemas)
-Licensia
+Licencia
